@@ -22,8 +22,16 @@ The system identifies items by their shape and color, classifies them into prede
 
 ## Team
 
-- Team Leader: *(your name)*
-- Members: *(team members' names)*
+- Team Leader: *(اسلام محمد مسعد سعد)*
+- Members: *(
+- مريم محمد يوسف الصفطاوي
+- محمد حسن محمد غنيم
+- تبارك ماجد محمد عبد الحي
+- إسلام محمد مسعد غازي
+- حنين طارق محمد أحمد
+- رهف محمد السيد عباس
+- منة السيد ياسر صقر
+- خالد رجب عمر عضمة )* 
 
 ## Status
 
